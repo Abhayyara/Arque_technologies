@@ -1036,8 +1036,6 @@ swiper-slide img {
    * VIDEO
    */
 
-  .video .play-btn { padding: 25px; }
-
 
 
   /**
@@ -1257,7 +1255,7 @@ swiper-slide img {
    */
 
   .video-banner {
-    max-width: 75%;
+    max-width: 100%;
     margin-inline: auto;
   }
 
